@@ -41,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Topic Modeling using Genism
+
+```yaml
+type: VideoExercise
+key: 1896001be2
+xp: 50
+```
+
+`@projector_key`
+5c90001e531292fbe0c05950a93f4e16
